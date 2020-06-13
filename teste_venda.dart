@@ -1,7 +1,7 @@
-import '../modelo/cliente.dart';
-import '../modelo/item.dart';
-import '../modelo/produto.dart';
-import '../modelo/venda.dart';
+import './cliente.dart';
+import './item.dart';
+import './produto.dart';
+import './venda.dart';
 
 main(){
   Venda venda = Venda(
